@@ -53,7 +53,8 @@
 
 <div align="center">
 <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KHW01104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KHW01104&show_icons=true&theme=tokyonight"/>
+ <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KHW01104&theme=tokyonight"/>-->
 </div>
 <br/>
 
