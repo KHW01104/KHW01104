@@ -5,10 +5,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=5000&pause=2000&color=F75C7E,F99B7D,FFC09F,FCF5C7,A0E7E5,B4F8C8&center=true&vCenter=true&width=435&lines=Server+Developer;Software+Engineer;Web+Developer" alt="Typing SVG" />
 </div>
 
+---
+
 <br/>
 
-## ✨ Activities
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KHW01104&utm_content=farm">
+  <img src="https://render.gitanimals.org/farms/KHW01104" width="450" height="250"/>
+  </a>
+</div>
 
+## ✨ Activities
 <div align="left">
 <br/>  
 
