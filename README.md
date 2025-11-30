@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=안녕하세요,%20김현우입니다!&fontSize=40&fontAlignY=35&animation=twinkling" />
-</div>
+</div> -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=5000&pause=2000&color=F75C7E,F99B7D,FFC09F,FCF5C7,A0E7E5,B4F8C8&center=true&vCenter=true&width=435&lines=Server+Developer;Software+Engineer;Web+Developer" alt="Typing SVG" />
 </div>
@@ -114,8 +114,8 @@
 </div>
 -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+</div> -->
 
 
