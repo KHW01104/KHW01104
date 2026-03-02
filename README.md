@@ -54,9 +54,8 @@
 
 <br/>
 
----
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <picture>
@@ -64,16 +63,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KHW01104/KHW01104/main/profile-3d-contrib/profile-green-animate.svg" />
     <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/KHW01104/KHW01104/main/profile-3d-contrib/profile-green-animate.svg" />
   </picture>
-</p>
+</p> 
 
 <!-- <div align="center">
 <br/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KHW01104&show_icons=true&theme=tokyonight"/>
  <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KHW01104&theme=tokyonight"/>-->
-</div>
-<br/>
-
----
+<!-- </div>
+<br/> -->
 
 <!-- ## 📈 Contribution Graph
 
